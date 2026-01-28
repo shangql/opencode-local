@@ -17,12 +17,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-vl-plus": {
           "id": "qwen3-vl-plus",
@@ -34,12 +34,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-coder-plus": {
           "id": "qwen3-coder-plus",
@@ -51,12 +51,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-vl-32b": {
           "id": "qwen3-vl-32b",
@@ -68,12 +68,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-vl-30b-a3b": {
           "id": "qwen3-vl-30b-a3b",
@@ -85,12 +85,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-omni-flash-2025-12-01": {
           "id": "qwen3-omni-flash-2025-12-01",
@@ -102,12 +102,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen-plus-2025-09-11": {
           "id": "qwen-plus-2025-09-11",
@@ -119,12 +119,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen-plus-2025-07-28": {
           "id": "qwen-plus-2025-07-28",
@@ -136,12 +136,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-30b-a3b": {
           "id": "qwen3-30b-a3b",
@@ -153,12 +153,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen3-coder-30b-a3b-instruct": {
           "id": "qwen3-coder-30b-a3b-instruct",
@@ -170,12 +170,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen-max-latest": {
           "id": "qwen-max-latest",
@@ -187,12 +187,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen-plus-2025-01-25": {
           "id": "qwen-plus-2025-01-25",
@@ -204,12 +204,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwq-32b": {
           "id": "qwq-32b",
@@ -221,12 +221,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen-turbo-2025-02-11": {
           "id": "qwen-turbo-2025-02-11",
@@ -238,12 +238,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen2.5-omni-7b": {
           "id": "qwen2.5-omni-7b",
@@ -255,12 +255,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qvq-72b-preview-0310": {
           "id": "qvq-72b-preview-0310",
@@ -272,12 +272,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen2.5-vl-32b-instruct": {
           "id": "qwen2.5-vl-32b-instruct",
@@ -289,12 +289,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen2.5-14b-instruct-1m": {
           "id": "qwen2.5-14b-instruct-1m",
@@ -306,12 +306,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen2.5-coder-32b-instruct": {
           "id": "qwen2.5-coder-32b-instruct",
@@ -323,12 +323,12 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
+            "output": 0
+          }
         },
         "qwen2.5-72b-instruct": {
           "id": "qwen2.5-72b-instruct",
@@ -340,14 +340,14 @@
           "temperature": true,
           "limit": {
             "context": 131072,
-            "output": 4096,
+            "output": 4096
           },
           "cost": {
             "input": 0,
-            "output": 0,
-          },
-        },
-      },
+            "output": 0
+          }
+        }
+      }
     },
     "nvidia": {
       "npm": "@ai-sdk/openai-compatible",
@@ -1043,11 +1043,11 @@
       "options": {
         "baseURL": "http://192.168.102.99:8000/v1",
         "apiKey": "sk-token1",
-        "timeout": 120000,
+        "timeout": 120000
       },
-      "env": ["LOCAL_MODEL_API_KEY", "LOCAL_MODEL_BASE_URL"],
-    },
+      "env": ["LOCAL_MODEL_API_KEY", "LOCAL_MODEL_BASE_URL"]
+    }
   },
-  "model": "nvidia/meta/llama-3.1-70b-instruct",
-  "small_model": "nvidia/microsoft/phi-3-mini-128k-instruct",
+  "model": "GLM4.7",
+  "small_model": "MinMax-M2.1"
 }
