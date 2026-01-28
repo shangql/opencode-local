@@ -1048,6 +1048,11 @@
       "env": ["LOCAL_MODEL_API_KEY", "LOCAL_MODEL_BASE_URL"]
     }
   },
-  "model": "GLM4.7",
-  "small_model": "MinMax-M2.1"
+  "model": "nvidia/meta/llama-3.1-70b-instruct",
+  "small_model": "nvidia/microsoft/phi-3-mini-128k-instruct",
+  "reasoning_model": "nvidia/meta/llama-3.1-405b-instruct",
+  "vision_model": "nvidia/microsoft/phi-3.5-vision-instruct",
+  "coding_model": "nvidia/qwen/qwen2.5-coder-32b-instruct",
+  "chat_model": "nvidia/meta/llama-3.1-70b-instruct",
+  "analysis_model": "nvidia/mistralai/mistral-large-2-instruct"
 }
