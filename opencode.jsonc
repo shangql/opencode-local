@@ -1048,6 +1048,6 @@
       "env": ["LOCAL_MODEL_API_KEY", "LOCAL_MODEL_BASE_URL"]
     }
   },
-  "model": "GLM4.7",
-  "small_model": "MinMax-M2.1"
+  "model": "z-ai/glm4.7",
+  "small_model": "minimaxai/minimax-m2.1"
 }
